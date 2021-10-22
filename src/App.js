@@ -1,10 +1,11 @@
 import React from "react";
 import "./styles.css";
+import ExpenseItem from "./components/ExpenseItem";
 
 export default function App() {
   return (
     <div className="App">
-      <h1>Expense Tracker App</h1>
+      <ExpenseItem></ExpenseItem>
     </div>
   );
 }
