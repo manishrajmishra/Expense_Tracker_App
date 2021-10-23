@@ -1,3 +1,2 @@
-# Expense-Tracker-React
-It have filters by month, add, edit, delete expense
+# Quiz-React
 Created with CodeSandbox
