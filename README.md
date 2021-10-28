@@ -1,2 +1,3 @@
-# Quiz-React
+# Expense Tracker App
+
 Created with CodeSandbox
